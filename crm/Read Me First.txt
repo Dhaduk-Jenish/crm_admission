@@ -1,0 +1,15 @@
+First go to dirictory as follow:
+xampp/phpMyAdmin/
+
+Create new Folder named CRM
+go into folder
+
+Open git bash shell here 
+import repository and all other in this location
+
+Go to your branch and do work at that place
+
+Before pushing back please make sure that you have exported your database file into SQL folder
+
+
+Make Changes as follow in php file for mailing function
